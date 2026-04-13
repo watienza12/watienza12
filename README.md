@@ -3,7 +3,7 @@
 🎨 Graphic & Web Designer  
 🏢 Thurston Software Solution Inc.
 
-I design clean, user-friendly experiences for web and digital products.
+I specialize in crafting user-centered digital experiences, ensuring consistency and scalability through well-maintained design systems.
 
 
 <!--
