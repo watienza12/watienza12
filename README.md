@@ -1,7 +1,7 @@
 # Mabuhay, I'm Dell 👋
 
-🎨 Graphic & Web Designer  
-🏢 Thurston Software Solution Inc.
+- Graphic & Web Designer
+- Thurston Software Solution Inc.
 
 I specialize in crafting user-centered digital experiences, ensuring consistency and scalability through well-maintained design systems.
 
