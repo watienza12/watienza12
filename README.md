@@ -5,9 +5,9 @@
 
 I design clean, user-friendly experiences for web and digital products.
 
----
 
-## 🛠️ Tools & Tech Stack
+
+## Tools & Tech Stack
 
 **Design**
 - Figma
@@ -29,9 +29,7 @@ I design clean, user-friendly experiences for web and digital products.
 **Other**
 - Git & GitHub
 
----
-
-## 💡 What I Do
+## What I Do
 
 - UI/UX Design  
 - Website Design & Development  
