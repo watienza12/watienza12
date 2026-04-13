@@ -6,7 +6,7 @@
 I design clean, user-friendly experiences for web and digital products.
 
 
-
+<!--
 ## Tools & Tech Stack
 
 **Design**
