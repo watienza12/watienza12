@@ -1,16 +1,39 @@
-## Hi there 👋
+# Mabuhay, I'm Dell 👋
 
-<!--
-**watienza12/watienza12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 Graphic & Web Designer  
+🏢 Thurston Software Solution Inc.
 
-Here are some ideas to get you started:
+I design clean, user-friendly experiences for web and digital products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tools & Tech Stack
+
+**Design**
+- Figma
+- Affinity
+- Canva
+
+**Frontend**
+- HTML
+- CSS
+- JavaScript
+
+**Frameworks & Libraries**
+- Bootstrap
+- Tailwind CSS
+- Mudblazor
+- Ant Design
+- C#
+
+**Other**
+- Git & GitHub
+
+---
+
+## 💡 What I Do
+
+- UI/UX Design  
+- Website Design & Development  
+- Branding & Visual Identity  
+- Responsive Web Design  
