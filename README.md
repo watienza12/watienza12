@@ -1,4 +1,4 @@
-# Mabuhay, I'm Dell 👋
+# Mabuhay, I'm Dell.
 
 - Graphic & Web Designer
 - Thurston Software Solution Inc.
